@@ -131,7 +131,9 @@ export default {
 - `rollRight`: 
 - `scaleXLeft`: 
 - `scaleXRight`: 
-** 说明：种类较多，试试再选择，说不定有意外惊喜哦~
+
+
+** 说明：种类较多，[示例在这](https://codesandbox.io/s/practical-sid-0ubim), 试试再选择，说不定有意外惊喜哦~
 ## License
 
 [https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT)
