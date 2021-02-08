@@ -4,10 +4,10 @@
 
 一个小巧玲珑的 vue 组件切换动画库, 支持 10 几种动画切换方式
 
-<img src="https://raw.githubusercontent.com/tnfe/dravenww/master/icons/fadeIn.gif" width="250" height="500">
-<img src="https://raw.githubusercontent.com/tnfe/dravenww/master/icons/zoomRotateIn.gif" width="250" height="500">
-<img src="https://raw.githubusercontent.com/tnfe/dravenww/master/icons/flip.gif" width="250" height="500">
-<img src="https://raw.githubusercontent.com/tnfe/dravenww/master/icons/shuttleRight.gif" width="250" height="500">
+<img src="https://raw.githubusercontent.com/dravenww/transx/master/icons/fadeIn.gif" width="250" height="500">
+<img src="https://raw.githubusercontent.com/dravenww/transx/master/icons/zoomRotateIn.gif" width="250" height="500">
+<img src="https://raw.githubusercontent.com/dravenww/transx/master/icons/flip.gif" width="250" height="500">
+<img src="https://raw.githubusercontent.com/dravenww/transx/master/icons/shuttleRight.gif" width="250" height="500">
 
 ## 安装
 
